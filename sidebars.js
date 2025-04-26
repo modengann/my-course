@@ -31,11 +31,7 @@ const sidebars = {
   ],
    */
 
-  {
-    type: 'category',
-    label: 'Parsons',
-    items: ['parsons/boolean'],
-  },
+ 
 };
 
 export default sidebars;
